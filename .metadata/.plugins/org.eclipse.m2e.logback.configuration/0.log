@@ -358,3 +358,7 @@
 2017-07-06 14:10:37,639 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SistemaSpringMVC
 2017-07-06 14:10:37,640 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SistemaSpringMVC
 2017-07-06 14:10:37,644 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-06 16:41:30,280 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-06 16:41:30,282 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edsonfragnan\Desktop\projetos\api_spring\SistemaSpringMVC\src\main\resources
+2017-07-06 16:41:30,284 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-06 16:41:30,285 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edsonfragnan\Desktop\projetos\api_spring\SistemaSpringMVC\src\test\resources

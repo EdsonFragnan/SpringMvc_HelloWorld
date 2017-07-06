@@ -7,3 +7,14 @@
 127.0.0.1 - - [06/Jul/2017:14:11:05 -0300] "GET / HTTP/1.1" 404 1073
 0:0:0:0:0:0:0:1 - - [06/Jul/2017:14:11:05 -0300] "GET /SistemaSpringMVC/ HTTP/1.1" 200 650
 0:0:0:0:0:0:0:1 - - [06/Jul/2017:14:11:10 -0300] "GET /SistemaSpringMVC/sistema/boasvindas?nome=Edson HTTP/1.1" 200 361
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:40:23 -0300] "GET /SistemaSpringMVC/sistema/boasvindas?nome=Edson HTTP/1.1" 200 361
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:40:27 -0300] "GET /SistemaSpringMVC/sistema/boasvindas HTTP/1.1" 200 371
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:40:32 -0300] "GET /SistemaSpringMVC/sistema/ HTTP/1.1" 404 1050
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:40:34 -0300] "GET /SistemaSpringMVC/sistema/ HTTP/1.1" 404 1050
+127.0.0.1 - - [06/Jul/2017:16:41:53 -0300] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:41:54 -0300] "GET /SistemaSpringMVC/ HTTP/1.1" 200 650
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:42:08 -0300] "GET /SistemaSpringMVC/sistema/boasvindas?nome=Edson HTTP/1.1" 200 361
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:42:10 -0300] "GET /SistemaSpringMVC/sistema/boasvindas?nome=Edson HTTP/1.1" 200 361
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:42:13 -0300] "GET /SistemaSpringMVC/sistema/boasvindas?nome= HTTP/1.1" 200 356
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:42:16 -0300] "GET /SistemaSpringMVC/sistema/boasvindas?nome HTTP/1.1" 200 356
+0:0:0:0:0:0:0:1 - - [06/Jul/2017:16:42:20 -0300] "GET /SistemaSpringMVC/sistema/boasvindas? HTTP/1.1" 200 361

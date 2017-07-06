@@ -9,7 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
 @RequestMapping("/sistema")
 public class HelloWorldController {
  @RequestMapping(value = "/boasvindas", method = RequestMethod.GET)
- public ModelAndView boasVindas(@RequestParam(value = "nome", required = false, defaultValue = "Edson") String nome) {
+ public ModelAndView boasVindas(@RequestParam(value = "nome", required = false, defaultValue = "Cícero Ednilson") String nome) {
 
  ModelAndView modelAndView = new ModelAndView("boasVindas");
  modelAndView.addObject("mensagem", "Olá " + nome);
